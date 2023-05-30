@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mead-tools/static/css/main.073c9b0a.css",
+    "main.js": "/mead-tools/static/js/main.c662c13b.js",
+    "static/js/787.f609575b.chunk.js": "/mead-tools/static/js/787.f609575b.chunk.js",
+    "static/media/logo.svg": "/mead-tools/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mead-tools/index.html",
+    "main.073c9b0a.css.map": "/mead-tools/static/css/main.073c9b0a.css.map",
+    "main.c662c13b.js.map": "/mead-tools/static/js/main.c662c13b.js.map",
+    "787.f609575b.chunk.js.map": "/mead-tools/static/js/787.f609575b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c662c13b.js"
+  ]
+}
